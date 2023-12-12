@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+header, footer, main {
+    border: 3px solid red;
+    min-height: 200px;
+}
+
+section {
+    border: 4px solid lime;
+    min-height: 200px;
+}
+
+.inner-column {
+    display: block;
+    border: 4px solid orange;
+    padding: 10px;
+}
